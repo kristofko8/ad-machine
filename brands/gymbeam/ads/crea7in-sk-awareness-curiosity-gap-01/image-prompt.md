@@ -1,0 +1,48 @@
+# Image Prompt — Crea7in SK Awareness #39 Curiosity Gap
+
+**Template:** 39 — Curiosity Gap + Scroll-Stopper Hook
+**Aspect ratio:** 1:1 (1080x1080)
+**Reference uploads:** žiadne (no product, no branding)
+
+---
+
+## Finálny prompt
+
+Do NOT include any product, logo, or branding in this ad. This should look like an organic social post, not an ad.
+
+Create a curiosity gap scroll-stopper hook ad. 1080x1080.
+
+COMPOSITION:
+One continuous image filling the entire frame.
+
+Top 35%: clean white background with large bold black sans-serif text (heavy weight, tight leading, left-aligned):
+
+"Väčšina ľudí, čo berie kreatín, robí túto chybu — a prichádza o 30% výsledkov, pretože..."
+
+The last words trail off followed by "...viac" in lighter gray text (rgb ~180,180,180), mimicking a truncated Instagram caption that requires clicking "more" to expand. The headline feels mid-sentence, unfinished.
+
+Bottom 65%: a close-up, slightly uncomfortable editorial photo of a man's forearms and hands gripping a barbell rack in a gym. Hands show strain — veins visible, grip tight, the bar slightly blurred in the foreground. Gym background dark and out of focus. No product visible, no branding, no logo anywhere. Shot feels raw and documentary — not fitness-stock-photo polished. Slightly shallow depth of field, real gym lighting (tungsten + fluorescent mix).
+
+No text on the photo zone. No product. No logo. No CTA button. No brand name anywhere.
+
+TYPOGRAPHY:
+Heavy bold sans-serif for the headline (Inter Black / Helvetica Neue Bold — platform-native feeling). "...viac" in the same font at lighter gray weight (~180,180,180).
+
+SAFE ZONES:
+Top 270px and bottom 270px clear of all text and key elements.
+
+COLOR AND TREATMENT:
+White text zone, sharp. Photo zone raw and unretouched — slightly gritty gym feel.
+
+MOOD:
+Curiosity-provoking, slightly unsettling. "Počkaj — akú chybu? Musím dočítať."
+
+---
+
+## Copy
+
+| Pole | Text |
+|------|------|
+| Hook headline | Väčšina ľudí, čo berie kreatín, robí túto chybu — a prichádza o 30% výsledkov, pretože... |
+| Truncation | ...viac |
+| Problem visual | Mužské ruky zvierające činku, napätie, žily — žiadny produkt |
