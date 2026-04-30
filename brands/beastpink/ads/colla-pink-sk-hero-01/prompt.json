@@ -1,0 +1,28 @@
+{
+  "template": "35-hero-product-showcase-stat-bar",
+  "brand": "BeastPink",
+  "product": "Colla Pink",
+  "market": "SK",
+  "language": "sk",
+  "aspect_ratio": "1:1",
+  "needs_product_images": true,
+  "scoring": {
+    "agent_1_persona_fit": 91,
+    "agent_2_angle": 91,
+    "agent_3_emotion": 93,
+    "agent_4_brand": 95,
+    "agent_5_copy_excellence": 94,
+    "agent_6_format": 100,
+    "agent_7_grammar": 100,
+    "all_pass": true
+  },
+  "copy": {
+    "headline": "VLASY. NECHTY. HOTOVO.",
+    "cta": "VYSKÚŠAJ TERAZ",
+    "stat_1": "1 265 RECENZIÍ",
+    "stat_2": "BEZ CUKRU",
+    "stat_3": "3 V 1"
+  },
+  "reference_uploads": ["brand-spec-card.png", "visual-style-card.png", "colla-pink-product.jpg"],
+  "prompt": "Use the attached product image as the primary reference — reproduce the product EXACTLY as it appears in the photo, do not invent or alter shape, color, labels, or design. Reference the attached brand spec card and visual style card for all typography, colors, and photography direction.\n\nCreate a hero product showcase + stat bar ad for BeastPink's Colla Pink. 1080x1080.\n\nCOMPOSITION:\nOne continuous image filling the entire frame. Background: soft pastel pink-to-white gradient, clean and airy.\n\nTop: large bold pink uppercase sans-serif headline \"VLASY. NECHTY. HOTOVO.\" at maximum scale. 2 lines max.\n\nBelow headline: white rounded-rectangle pill CTA button with pink uppercase bold text \"VYSKÚŠAJ TERAZ\".\n\nCenter: the Colla Pink product (reproduced exactly from reference) in full packaging, angled slightly, hero-lit with soft studio lighting. Product fills the vertical center zone.\n\nSurrounding the product: fine pink powder dust, small collagen granule particles, delicate botanical elements (small grape blossoms or dried grape slices) arranged in a soft radial scatter around the product. Debris looks natural — not machine-placed. Light, airy, beauty-forward.\n\nBottom: a white rounded-pill stat bar spanning most of the width with three metrics separated by thin vertical pink hairlines:\n- \"1 265 RECENZIÍ\"  |  \"BEZ CUKRU\"  |  \"3 V 1\"\n\nNumbers/labels large and bold in pink. Short labels smaller below in bold.\n\nTYPOGRAPHY:\nHeadline at max scale, all caps, pink or deep rose. CTA pill uppercase bold. Stat labels bold, pink.\n\nSAFE ZONES:\nTop 270px and bottom 340px clear of all text and key elements.\n\nCOLOR AND TREATMENT:\nSoft pastel pink background. Brand-color (pink/rose) typography. Product hero-lit with realistic powder shadows.\n\nMOOD:\nPremium feminine beauty — confident, clean, results-driven. Not clinical. Not girly-overload. Aspirational but real."
+}
